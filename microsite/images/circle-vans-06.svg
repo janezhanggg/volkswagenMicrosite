@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1105.14 740">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4eb99f;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="735.14" cy="370" r="370"/>
+  <image width="1072" height="646" transform="translate(0 46.83)" xlink:href="fotobus.png"/>
+</svg>
